@@ -1,0 +1,11 @@
+.filter-section{
+    margin-left: 40px;
+}
+.heading{
+    margin-left: 40px;
+}
+
+.filter-section ul li{
+    text-decoration: none;
+    display: block;
+}

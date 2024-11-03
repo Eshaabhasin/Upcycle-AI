@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/imgupcycle.jpg",
+    "name": "Cushion Cover",
+    "price": "Rs.199",
+    "description": "Crafted from 100% upcycled materials, this vibrant cushion cover features a stunning multicolor abstract print on the front, bringing a bold pop of color and artistry to any space. Perfect for adding an eco-friendly touch to your decor."
+  },
+  {
+    "id": 2,
+    "image": "/assets/img3.jpg",
+    "name": "Natural Fibre Pot",
+    "price": "Rs.599",
+    "description": "This natural fiber pot is made from sustainable materials, giving your plants a stylish and eco-friendly home. Its earthy texture and organic appeal complement any indoor or outdoor space, adding a touch of nature to your decor."
+  },
+  {
+    "id": 3,
+    "image": "/assets/swastik.jpg",
+    "name": "Swastik Diwali Door Hanging",
+    "price": "Rs.495",
+    "description": "Celebrate Diwali with this traditional Swastik door hanging. Made with intricate detailing and designed to bring prosperity to your home, it's perfect for adding a festive and auspicious touch to your entryway."
+  },
+  {
+    "id": 4,
+    "image": "/assets/audio.jpg",
+    "name": "Upcycled Audio Tapes",
+    "price": "Rs.1,795",
+    "description": "These upcycled audio tapes have been transformed into unique decorative pieces, blending nostalgia with eco-conscious design. Ideal for music lovers and sustainable living advocates alike, they bring a retro vibe to your space."
+  }
+]

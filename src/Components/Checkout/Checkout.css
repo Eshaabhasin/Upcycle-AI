@@ -1,0 +1,122 @@
+.checkout-container {
+    padding: 20px;
+    max-width: 800px;
+    margin-top: 20vh;
+    margin-left: 2vw;
+}
+
+h1 {
+    text-align: left;
+    font-size: 2rem;
+    color: #333;
+}
+
+.carts-both {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px; /* Adds space between cart details and total cart */
+    margin-top: 10px;
+}
+
+.cartdetails {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    flex: 3; /* Gives more space to cart details */
+}
+
+.cushionimg1 {
+    width: 100px;
+    height: 100px;
+}
+
+.product {
+    color: #333;
+    font-size: 1rem;
+    flex: 2; /* Allows product details to take appropriate space */
+}
+
+.quantity-selector {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.quantity-selector button {
+    background: none;
+    border: 1px solid #ddd;
+    padding: 5px 10px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.quantity-selector span {
+    padding: 0 10px;
+}
+
+.pricesection {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+    min-width: 60px;
+    text-align: right;
+}
+
+.remove-button {
+    background: none;
+    border: none;
+    color: #007bff;
+    cursor: pointer;
+    text-decoration: underline;
+    font-size: 0.9rem;
+}
+
+.total-cart-section {
+    border: 1px solid #ddd;
+    padding: 0px 20px;
+    border-radius: 8px;
+    position: absolute;
+    right: 0;
+    margin-right: 2vw;
+    height: 75vh;
+    top: 0;
+    margin-top: 20vh;
+    width: 25vw;
+}
+
+.total-amount {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+    margin-top: 10px;
+}
+
+.paynow{
+    border: none;
+    margin-top: 5vh;
+    padding: 10px 145px;
+    border-radius: 8px;
+    font-size: 20px;
+    color: beige;
+    background-color: #6e9470;
+}
+
+.icons{
+    display: flex;
+    margin-top: 3vh;
+}
+
+.icons .icon{
+    font-size: 50px;
+}
+
+.cardd{
+    font-size: 20px;
+    margin-top: 2vh;
+    margin-left: 3vw;
+}

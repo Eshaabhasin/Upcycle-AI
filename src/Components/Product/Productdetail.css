@@ -1,0 +1,68 @@
+.contain{
+    display: flex;
+    margin-top: 20vh;
+}
+
+.cushionimg{
+    width:500px;
+    height: 500px;
+    margin-left: 200px;
+}
+
+.add-to-cart{
+    background-color: black;
+    color:white;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 50px;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.cushioninfo{
+    font-size: 25px;
+    margin-left: 50px;
+}  
+.priceinformation{
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.pack{
+    margin-left: 50px;
+    font-size: 20px;
+}
+.productinformation{
+    font-size: 18px;
+    width:70%;
+    margin-left: 50px;  
+}
+.current-price{
+ margin-right: 500px;
+}
+.pack-selection {
+    display: flex;
+    gap: 12px; /* Add space between buttons */
+    margin-left: 50px; /* Align with other elements if necessary */
+}
+
+.pack-option {
+    font-size: 0.875rem;
+    padding: 8px 14px;
+    border: 1px solid #d1d1d1;
+    border-radius: 4px;
+    background-color: #fff;
+    cursor: pointer;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.pack-option.selected {
+    border-color: #6e9470;
+    color: #6e9470;
+}
+
+.pack-option:hover {
+    background-color: #f7f7f7;
+}
