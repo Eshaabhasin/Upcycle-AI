@@ -1,6 +1,6 @@
 ---
 
-# ♻️ Upcycle AI  
+# ♻️ Upcycle AI ♻️
 
 **Upcycle AI** is a full-stack platform that promotes sustainability and the circular economy by helping users transform waste into valuable products using AI-generated design ideas. The platform empowers creativity while fostering environmental preservation and economic opportunities.  
 
